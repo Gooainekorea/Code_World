@@ -1,2 +1,9 @@
+# 옵시디언 설정 무시
 .obsidian
+
+# VSCode 설정 무시
 .vscode
+
+# 운영체제 잡동사니 무시
+.DS_Store
+Thumbs.db

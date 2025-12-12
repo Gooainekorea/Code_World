@@ -17,11 +17,6 @@
 ---
 
 
-├── 01_Macro_Environment/           # 거시적 세계관 설정
-│   ├── Geological_Environment/         # 지질환경
-        ├── 00_Linux_Wilderness/         # 리눅스
-            ├── 00_Linux_Wilderness.md         # 리눇
-            ├── 01_Embedded_Frontier.md     # 임베디드
-            └── 02_Raspberry Forest.md       # 라즈베리
-        ├── 01_Windows_Plateau.md        # 윈도우
-        ├── 02_Mac_Darwin_Garden.md         # 맥
+```
+
+```
