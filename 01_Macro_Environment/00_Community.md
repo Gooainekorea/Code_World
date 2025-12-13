@@ -13,7 +13,7 @@ Assembly: [Assembly Employee]
 어셈블리 사원/어셈블리 고대유적
 
 C: [C-Underworld]
-	씨 지하도시
+	씨 지하세계
 C++: [C++ Giant Maze]
 	C++ 거대미로
 C/C++: Industrial Zone
@@ -28,9 +28,10 @@ Java: [Java Citadel]
 Python: [Python Free Republic]
 파이썬 자유 공화국
 
-JavaScript: [V8 Metropolis]
-Vo0
-
+JavaScript: [V8 Rederation]
+V8 연방국가
+	TypeScript: [TS Settlement]
+	타입 스크립트 신규 정착촌
 Go: [Go Concurrency Republic]
 	Docker: [Port city Docker]
 C#: [C# NET Federation]
