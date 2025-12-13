@@ -28,7 +28,7 @@ Java: [Java Citadel Empire]
 *자바면 제국정도의 규모를 가져도 된다고 생각합니다. (C는 세계의 한 축)*
 
 Python: [Python Academic City-State]
-파이썬 학술 자치도시
+파이썬 학술 자치도시 
 
 JavaScript: [V8 Federation]
 V8 연방국가
