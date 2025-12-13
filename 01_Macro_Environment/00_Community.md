@@ -5,6 +5,7 @@ tags:
   - Nations
 last_updated: 2025.12.13
 ---
+[Memo-국가형태의 분류](01_Macro_Environment/00_Community_Memo.md)
 # Basis 
 Binary: [Fundamental dimension]
 바이너리 기본차원
@@ -22,17 +23,23 @@ C/C++: Industrial Zone
 Rust: [Fortress Rust]
 러스트 요새국
 
-Java: [Java Citadel]
-자바 성채
+Java: [Java Citadel Empire]
+자바 성채 제국
+*자바면 제국정도의 규모를 가져도 된다고 생각합니다. (C는 세계의 한 축)*
 
-Python: [Python Free Republic]
-파이썬 자유 공화국
+Python: [Python Academic City-State]
+파이썬 학술 자치도시
 
-JavaScript: [V8 Rederation]
+JavaScript: [V8 Federation]
 V8 연방국가
-	TypeScript: [TS Settlement]
-	타입 스크립트 신규 정착촌
-Go: [Go Concurrency Republic]
-	Docker: [Port city Docker]
-C#: [C# NET Federation]
-Swift: [Swiftria Apex]
+	TypeScript: [TS State Government]
+	타입 스크립트 주정부
+Go: [Go Concurrency City-State]
+Go 동시성 도시 국가
+	Docker: [Port City Docker]
+	도커 항구 도시
+C#: [C# NET Technocracy] 
+C# NET 기술관료제 국가
+Roslyn
+Swift: [Swift Closed Economy]
+스위프트 폐쇄 경제국
